@@ -10,13 +10,13 @@ class mult_process():
     def __init__(self,domains):
         self.domains=domains
         self.error=[] #保存错误结果
-        self.threads = 24
+        self.threads = 32
         self.count=0
 
     def get_json_data(self,domain): # 获取单个网站的product.json
         url = str('https://')+str(domain)+ '/products.json'
         try:
-            webdata = requests.get(url).text
+            webdata = requests.get(url,timeout=5).text
         except:
             self.error.append(domain)
         else:
@@ -59,7 +59,7 @@ class mult_process():
 #https://jordanfabrics.com/products.json
 #https://arelle.com.au/products.json
 if __name__ == "__main__":
-    lst=open('domain.txt','r',encoding='utf-8').read().split('\n')
+    lst=open('domain.txt','r',encoding='utf-8').read().split('\n')[0:10]
     s=mult_process(lst)
     s.multiply_process()
     s.handleError()
