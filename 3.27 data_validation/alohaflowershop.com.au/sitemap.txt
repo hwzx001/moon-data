@@ -1,0 +1,4 @@
+https://www.alohaflowershop.com.au/sitemap_products_1.xml?from=8099929993&to=4392455667773
+https://www.alohaflowershop.com.au/sitemap_pages_1.xml
+https://www.alohaflowershop.com.au/sitemap_collections_1.xml
+https://www.alohaflowershop.com.au/sitemap_blogs_1.xml

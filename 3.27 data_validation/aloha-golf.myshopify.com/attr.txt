@@ -1,0 +1,4 @@
+aloha-golf.myshopify.com
+True
+186
+False

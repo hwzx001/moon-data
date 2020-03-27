@@ -1,0 +1,4 @@
+https://hawaiiteetimes.com/sitemap_products_1.xml?from=109451520&to=4475657125967
+https://hawaiiteetimes.com/sitemap_pages_1.xml
+https://hawaiiteetimes.com/sitemap_collections_1.xml
+https://hawaiiteetimes.com/sitemap_blogs_1.xml

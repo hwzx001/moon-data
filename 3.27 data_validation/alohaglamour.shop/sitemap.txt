@@ -1,0 +1,4 @@
+https://alohaglamour.shop/sitemap_products_1.xml?from=1860012998729&to=4602197639254
+https://alohaglamour.shop/sitemap_pages_1.xml
+https://alohaglamour.shop/sitemap_collections_1.xml
+https://alohaglamour.shop/sitemap_blogs_1.xml

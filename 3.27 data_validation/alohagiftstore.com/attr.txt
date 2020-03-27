@@ -1,0 +1,4 @@
+alohagiftstore.com
+True
+9
+False
